@@ -7,12 +7,13 @@ I'm a Backend developer specialized in JavaScript-based technologies. I Love wri
 
 Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
 
-## Current Tech Stack
+## Tech Stack
 
 ```js
 {
-  programmingLanguages: ['JavaScript'],
-  frameworks: ['React', 'Express']
+  programmingLanguages: ['JavaScript', 'PHP', 'Java'],
+  frameworks: ['React', 'Express', 'Redux'],
+  tools: ['Docker', 'Git', 'Postman']
 }
 ```
 
