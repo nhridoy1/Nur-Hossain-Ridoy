@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I'm Ridoy 👋🏼
 
-<!--
-**Nur-Hossain-Ridoy/Nur-Hossain-Ridoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ ### Full Stack Developer  &  Cutting Edge technology Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Backend developer specialized in JavaScript-based technologies. I Love writing clean and maintainable code for web application, passionate about learning and exploring new technologies along with my research in both independent and collaborative settings to build products that help to improve people’s lives. As of my hobbies, I prefer reading books, travel, and listen to music.
+
+Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
+
+## Current Tech Stack
+
+```js
+{
+  programmingLanguages: ['JavaScript'],
+  frameworks: ['React', 'Express']
+}
+```
+
+### &rarr; [More about me](https://ridoydev.netlify.app)
