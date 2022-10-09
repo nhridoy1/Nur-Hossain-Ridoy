@@ -3,9 +3,8 @@
 
  ### Full Stack Developer  &  Cutting Edge technology Enthusiast
 
-I'm a Backend developer specialized in JavaScript-based technologies. I Love writing clean and maintainable code for web application, passionate about learning and exploring new technologies along with my research in both independent and collaborative settings to build products that help to improve people’s lives. As of my hobbies, I prefer reading books, travel, and listen to music.
+I'm a Backend developer specialized in JavaScript-based technologies. I Love writing clean and maintainable code for web application, passionate about learning and exploring new technologies. As of my hobbies, I prefer reading books, travel, and listen to music.
 
-Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
 
 ## Tech Stack
 
@@ -28,7 +27,7 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
 You can see and download the pdf copy of my latest resume from below 👇
 
 - [Google Drive](https://drive.google.com/file/d/16J-NpmX1Z3vLbUs9RSudjTmNx8YNQYdt/view?usp=sharing)
-- [GitHub view](https://github.com/foyzulkarim/foyzulkarim/blob/master/Resume-Nur-Hossain.pdf)
+- [GitHub view](https://github.com/nur-hossain-ridoy/nur-hossain-ridoy/blob/master/Resume-Nur-Hossain.pdf)
 - [GitHub download](https://raw.githubusercontent.com/foyzulkarim/foyzulkarim/master/Resume-Foyzul-Karim.pdf)
 
 
