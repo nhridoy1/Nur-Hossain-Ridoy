@@ -28,7 +28,7 @@ You can see and download the pdf copy of my latest resume from below 👇
 
 - [Google Drive](https://drive.google.com/file/d/16J-NpmX1Z3vLbUs9RSudjTmNx8YNQYdt/view?usp=sharing)
 - [GitHub view](https://github.com/nur-hossain-ridoy/nur-hossain-ridoy/blob/master/Resume-Nur-Hossain.pdf)
-- [GitHub download](https://raw.githubusercontent.com/foyzulkarim/foyzulkarim/master/Resume-Foyzul-Karim.pdf)
+- [GitHub download](https://raw.githubusercontent.com/nur-hossain-ridoy/nur-hossain-ridoy/master/Resume-Nur-Hossain.pdf)
 
 
 ### &rarr; [More about me](https://ridoydev.netlify.app)
