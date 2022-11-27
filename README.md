@@ -10,7 +10,7 @@ I'm a Backend developer specialized in JavaScript-based technologies. I Love wri
 
 ```js
 {
-  programmingLanguages: ['JavaScript', 'PHP', 'Java'],
+  programmingLanguages: ['JavaScript', 'TypeScript', 'Go'],
   frameworks: ['React', 'Express', 'Redux'],
   tools: ['Docker', 'Git', 'Postman', 'Nginx']
 }
