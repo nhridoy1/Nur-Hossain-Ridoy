@@ -1,4 +1,4 @@
-# Hi, I'm Ridoy 👋🏼
+# Hey, there 👋🏼
 
 
  ### Full Stack Developer  &  Cutting Edge technology Enthusiast
